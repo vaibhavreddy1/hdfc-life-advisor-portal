@@ -9,9 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "formik": "^2.4.9",
+    "next": "14.2.35",
+    "next-auth": "^4.24.15",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.35"
+    "yup": "^1.7.1"
   },
   "devDependencies": {
     "eslint": "^8",

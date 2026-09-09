@@ -1,0 +1,34 @@
+[
+  {
+    "claimNo": "CLM-01",
+    "policyNo": "HDFC-LIFE-1001",
+    "customer": "Anita Sharma",
+    "claimAmount": 25000,
+    "urgency": "HIGH",
+    "status": "SUBMITTED"
+  },
+  {
+    "claimNo": "CLM-02",
+    "policyNo": "HDFC-LIFE-1002",
+    "customer": "Rahul Mehta",
+    "claimAmount": 18000,
+    "urgency": "MEDIUM",
+    "status": "SUBMITTED"
+  },
+  {
+    "claimNo": "CLM-03",
+    "policyNo": "HDFC-LIFE-1005",
+    "customer": "Sneha Patel",
+    "claimAmount": 42000,
+    "urgency": "HIGH",
+    "status": "APPROVED"
+  },
+  {
+    "claimNo": "CLM-04",
+    "policyNo": "HDFC-LIFE-1004",
+    "customer": "Vikram Singh",
+    "claimAmount": 15000,
+    "urgency": "LOW",
+    "status": "SUBMITTED"
+  }
+]
